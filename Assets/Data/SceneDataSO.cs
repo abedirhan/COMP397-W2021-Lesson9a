@@ -7,6 +7,7 @@ public class SceneDataSO : ScriptableObject
 {
     // Player Data
     public Vector3 playerPosition;
+    public Quaternion playerRotation;
     public int playerHealth;
 
 }
